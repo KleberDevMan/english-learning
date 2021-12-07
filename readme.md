@@ -1,17 +1,9 @@
-#### método adaptado
+#### English for Devs (custom method) 
+<br>
 
-- ouvir o audio + transcrever (3x)
-
-- corrigir a transcrição 
-  - fazendo anotacoes no anki
-
-- escute o audio + texto (1x)
-  - repetindo em voz alta
-
-- ouça explicação do professor
-  - melhorando anotações do anki
-
-- escute o audio + texto (1x)
-  - repetindo em voz alta
-
-- escute o audio (1x)
+1. `hear audio + transcript` x3
+2. `fix transcript` +anki
+3. `hear audio + fixed transcription` x1
+4. `hear teacher explication` +anki 
+5. `hear audio + fixed transcription` x1
+6. `hear audio` x1
