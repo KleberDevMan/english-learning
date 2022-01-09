@@ -39,6 +39,15 @@ The Plural `s`
 -----------
 Frazes que estao sem o verb ToBe:
 
+"Quando não tem verbo tobe e eu quero negar/perguntar, `does` ou `do`"
+
 1. Simples, ganham o `do`
-      - 
+      - afirmativa é normal. So muda na interrogativa e negativa
       
+      I like
+      do I like?
+      I don't like.
+      
+      she likes
+      does she like?          [o `do` pega o `s` histórico pra ele. O verb perde o `s`]
+      she doesn't like.

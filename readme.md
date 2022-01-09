@@ -16,4 +16,7 @@ audio x
 |||	- hear
 |||	- hear + read
 |   - hear
-```
+```   
+flashcards anki
+
+- Most **images**, less **translations**. <br>Native learning: **assimilation**. <br>No translate all.
