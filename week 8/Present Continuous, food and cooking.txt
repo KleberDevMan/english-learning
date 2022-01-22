@@ -13,7 +13,7 @@ add ING, retirando-se a letra E
     take ~> taking
     
 - Se a palavra termina com Y,
-add ING
+apenas add ING
 
     study ~> studying
     play ~> playing

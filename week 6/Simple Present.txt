@@ -6,7 +6,14 @@ Verbo To Be:
 é um Modal verb
   - um verbo. 
   - eles determinam o `modo` da frase (pergunte, afirme, negue)
-
+  - nao conjuga
+  - nao coloca `to` depois do verbo
+  
+the others:
+  - can           (hability/permission) ~> cannot, could, couldn't
+  - should        (advice)              ~> shouldn't
+  - must          (obligation)
+  - may/might     (possibility/se pá)
 
 -----------
 Notas:
