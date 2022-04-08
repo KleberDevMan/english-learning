@@ -1,0 +1,33 @@
+PROJETO AGORA APRENDO INGLES
+
+AULA1
+	estudo de textos com audio
+		1 - escutar o audio 2x
+		2 - estudo do texto
+		3 - reescutar o audio 3x
+		4 - treinamento
+					ler o texto 1x
+					ouvir 20x
+		
+AULA2
+	mineracao de sentenças
+		1 - definir meta diária (5, 1r0, 15)
+		2 - encontrar palavras novas
+		3 - encontrar frazes i+1 com as palavras mineradas
+					context.reverso.net
+		4 - colocar frases i+1 no anki
+		5 - revisar todos os dias
+	
+AULA3
+	MAR. Combinar Estudo + Imersao
+		nível 1 - audios de textos ja estudados
+		nível 2 - audios facilitados
+		nivel 3 - videos do seu interesse legendados em ingles
+		nivel 4 - filmes e seriados em ingles com legendas em inglês
+		nivel 5 - conteudo sem legenda
+		
+AULA4
+	ROTEIRO		
+	
+Notas
+	Pronuncia - translate.google

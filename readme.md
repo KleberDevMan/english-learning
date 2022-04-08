@@ -20,3 +20,20 @@ audio x
 flashcards anki
 
 - Most **images**, less **translations**. <br>Native learning: **assimilation**. <br>No translate all.
+
+
+
+alternative
+```
+hear audio x3
+
+hear audio + transcription 
+
+hear audio + teacher explication +anki +paint x1
+
+hear audio + transcription x1
+
+hear audio x1
+
+--> hear audio in academy xN
+```
