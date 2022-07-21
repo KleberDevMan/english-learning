@@ -1,37 +1,3 @@
-Sasha: 
-Hey Erick, What are you going to do today?
-
-Eirck: 
-Hey Sasha, I think I will just take some time to read a book and drink some tea today. 
-Yesterday, I had a very tough day, so today I suppose I´ll only chill. 
-You know, I need to take some time for myself.
-
-Sasha: I envy you.
-I wish I could take some moment to myself as well. 
-I am goingto an appoinment right now. 
-I have some exams to do and after I will take a busand I am going to go to work. 
-I am very stressed as well, however my boss won´tallow us to get a day off until the end of the year.
-
-Erick: Being a lawyer is certainly hard work, isn´t it. 
-I consider being an engineerreally demanding really, 
-but I am afraid that your job is even more demandingthan my own.
-
-Sasha: I think so. 
-My cousin is a phisycian, my sister is a veterinarian, my father isa builder, 
-my mom is a baker and my nephew is a teacher, but none of themwork as much as I do. 
-The problem here is that I don´t earn very well. That isvery unfair.
-
-Erick: Sure it is!
-
-Sasha: I think I only continue working where I am, 
-because I truly love myprofession.
-
-Ercik: Well, yes, that is fundamental really
-
-
-
-
-
 Sasha: Hey Erick, What are you going to do today?
 
 Eirck: Hey Sasha, I think I will just take some time to read a book and drink some
@@ -59,3 +25,4 @@ profession.
 
 Ercik: Well, yes, that is fundamental really.
                 
+ 

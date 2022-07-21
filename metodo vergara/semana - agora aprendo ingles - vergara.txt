@@ -11,7 +11,7 @@ AULA1
 		
 AULA2
 	mineracao de sentenças
-		1 - definir meta diária (5, 1r0, 15)
+		1 - definir meta diária (5, 10, 15)
 		2 - encontrar palavras novas
 		3 - encontrar frazes i+1 com as palavras mineradas
 					context.reverso.net
