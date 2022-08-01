@@ -1,7 +1,7 @@
 -----------------------------------------------------
 2. Comparatives, superlatives and practice
 
-Compartives
+Compartives [-ER; MORE]
   
   ER
     she is nicer
@@ -16,7 +16,7 @@ Compartives
     bad   - worse
     far   - farther (longe)
 
-Superlatives ("a mais")
+Superlatives [-EST, MOST]
 
   THE + EST
     she is the nicest
