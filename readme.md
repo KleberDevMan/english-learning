@@ -11,3 +11,15 @@ COUNTING...
 |||	- hear
 |||	- hear + read
 |   - hear
+
+...
+Everyone who wants 
+to take
+has to make a small computer-controlled robot.
+
+You need to race it to the center of a maze.
+
+Our robot is about 30 centimeters high.
+It weights two kilograms.
+It should be really quick.
+

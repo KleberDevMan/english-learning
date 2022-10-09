@@ -1,0 +1,12 @@
+Can: habilidades e permissões
+  - I can play the violin
+
+May: habilidades e permissões (possibilidade/desejo)
+  - I may play the violin
+  - may the force be with you (desejo)
+
+Might: possiblidade ainda mais incerta
+  - today might rain
+
+Others
+  would, could, should
